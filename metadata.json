@@ -1,0 +1,6 @@
+{
+  "name": "Dynamic Island",
+  "description": "Interactive floating Dynamic Island overlay with notifications, live activities, music controls, timer, and battery charging animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
